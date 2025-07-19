@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Anisha Kumari
+React Native Developer | 2+ Years Experience | Mobile-First Builder
 
-<!--
-**anisha-kumari/anisha-kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently working on **a Tutor Booking App with React-Native + Ruby on Rails**
 
-Here are some ideas to get you started:
+- 🔭 Previously built apps like:
+  - 👨‍⚕️ IBD Consultation App
+  - 🧱 Constructoye App
+  - 📇 Lead Management CRM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love solving UI/UX challenges with React Native and exploring Ruby on Rails
+
+### 📫 Connect with me:
+[![LinkedIn](https://www.linkedin.com/in/kumari-anisha?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLUiTGtWqTra9RPCQ6DUtaA%3D%3D)
+[![Email](anishakumari8427@gmail.com)
